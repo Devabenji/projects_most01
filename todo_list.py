@@ -36,6 +36,7 @@ def add_task(tasks):
       print('Invalid task!')
 
 
+
 def remove_task(tasks):
   display_tasks(tasks)
 

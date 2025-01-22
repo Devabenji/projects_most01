@@ -8,6 +8,7 @@ def get_amount():
     except ValueError:
       print('Invalid amount')
 
+
 def get_currency(label):
   currencies = ('USD', 'EUR', 'CAD')
   while True:
